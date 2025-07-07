@@ -1,3 +1,4 @@
+<img src="https://github.com/sheeban-sheikh/ecommerce-powerbi-dashboard/blob/main/'banner'.png.png" />
 # 📊 E-Commerce Sales Dashboard (Power BI)
 
 This is a fully interactive **mock Power BI dashboard** created to visualize and analyze product revenue, customer spending, and order trends in an e-commerce business.
